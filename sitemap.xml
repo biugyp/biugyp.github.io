@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://biugyp.github.io/categories/</loc>
+    <loc>https://biugyp.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://biugyp.github.io/</loc>
+    <loc>https://biugyp.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://biugyp.github.io/tags/</loc>
+    <loc>https://biugyp.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
