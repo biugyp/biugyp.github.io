@@ -3,12 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://biugyp.github.io/post/cors/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://biugyp.github.io/post/sort/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://biugyp.github.io/experience/jd/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://biugyp.github.io/experience/doctor/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://biugyp.github.io/post/%E8%B0%83%E5%BE%AE%E4%BF%A1jssdk%E6%8E%A5%E5%8F%A3%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://biugyp.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://biugyp.github.io/experience/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://biugyp.github.io/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://biugyp.github.io/post/</loc>
+    <lastmod>2018-08-31T11:31:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
